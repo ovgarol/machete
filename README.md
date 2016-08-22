@@ -1,2 +1,2 @@
 # machete
-RK4 integrator for C++.
+RK4 integrator and pseudo random number generator for C++.
